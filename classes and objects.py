@@ -52,7 +52,7 @@ class American:
 
 
 a1 = American("John", "Capitalist", "rude", False)
-a2 = American("Gertrude", "Communist", "nice", True)
+a2 = American("Mary", "Communist", "nice", True)
 
 
 # In[6]:
